@@ -3,8 +3,8 @@
 ####################################
 
 CalculatePUSystematics true
-DataHistos PileUpReweighting2018.root       # 2016: PileUpReweighting2016.root, 2017: PileUpReweighting2017.root, 2018: PileUpReweighting2018.root
-MCHistos mc2018_pileup_20UL2018.root   # 2016: mc2016_pileup_Dec2018reReco.root, 2017: mc2017_pileup_Dec2018reReco.root, 2018: 2016: mc2018_pileup_Dec2018reReco.root
+DataHistos PileUpReweighting2018.root       # 2016 APV: PileUpReweighting2016ULAPV.root, 2016 non-APV: PileUpReweighting2016ULNonAPV, 2017: PileUpReweighting2017UL.root, 2018: PileUpReweighting2018UL.root
+MCHistos mc2018_pileup_20UL18.root   # 2016 APV: mc2016APV_pileup_20UL16.root, 2016 non-APV: mc2016NonAPV_pileup_20UL16, 2017: mc2017_pileup_20UL17.root, 2018: 2018: mc2018_pileup_20UL18.root
 DataPUHistName pileup
 MCPUHistName pileup
 
