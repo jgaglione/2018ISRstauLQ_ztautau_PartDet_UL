@@ -3,7 +3,6 @@
 #######################################
 
 SmearTheJet 1
-JetEnergyScaleOffset 0.4
 
 GenMatchingDeltaR 0.4
 MuonMatchingDeltaR  0.3
@@ -202,6 +201,6 @@ ApplyJetBTaggingDeepFlav 0
 
 JetBTaggingWP   medium
 JetBTaggingCut  0.4168
-MatchBToGen     0
+MatchBToGen     1
 UseBtagSF       1
 RemoveBJetsFromJets 0
