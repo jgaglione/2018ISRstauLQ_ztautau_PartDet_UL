@@ -90,7 +90,7 @@ MetMtCut 0.0    50.0
 
 //----RECO CUTS----////
 
-EtaCut 2.3
+EtaCut 2.1
 PtCut 60.0 9999.9
 
 DoDzCut false
